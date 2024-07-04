@@ -1,20 +1,20 @@
 export default [
    {
-      title: 'MFD Dashboard App',
-      imgUrl: '/assets/terminal-website.jpg',
-      stack: ['Django', 'JavaScript', 'Python', 'HTML', 'CSS'],
-      link: 'temp',
+      title: 'Marketplace',
+      imgUrl: '/assets/marketplace.jpg',
+      stack: ['Django', 'JavaScript', 'Python', 'Tailwind'],
+      link: 'https://github.com/RCHixon/marketplace',
    },
    {
       title: 'Developer Portfolio',
-      imgUrl: '/assets/dev-portfolio.jpg',
+      imgUrl: '/assets/portfolio.jpg',
       stack: ['React', 'Tailwind', 'Vite'],
-      link: 'temp',
+      link: 'https://github.com/RCHixon/portfolio',
    },
    {
-      title: 'Job Tracker App',
-      imgUrl: '/assets/terminal-website.jpg',
-      stack: ['Django', 'JavaScript', 'Python', 'HTML', 'CSS'],
-      link: 'temp',
+      title: 'Pixel Runner',
+      imgUrl: '/assets/runner.jpg',
+      stack: ['Pygame','Python'],
+      link: 'https://github.com/RCHixon/Pixel-Runner',
    },
 ]
