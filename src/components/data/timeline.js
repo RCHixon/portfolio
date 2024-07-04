@@ -9,7 +9,7 @@ export default [
       year: 'Today',
       title: 'Full Stack Engineer',
       duration: '5 years',
-      details: 'I build web apps from the ground up for internal operations for data center and desktop support teams.'
+      details: "I build web apps from the ground up for internal operations for data center and desktop support teams I work with in Django. I also contribute to the internal openDCIM codebase and keep it updated on new releases to suit Travelers' needs."
    },
    {
       year: '2019',
