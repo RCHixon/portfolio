@@ -17,10 +17,4 @@ export default [
       stack: ['Django', 'JavaScript', 'Python', 'HTML', 'CSS'],
       link: 'temp',
    },
-   {
-      title: 'Device Erasure App',
-      imgUrl: '/assets/terminal-website.jpg',
-      stack: ['Django', 'JavaScript', 'Python', 'HTML', 'CSS'],
-      link: 'temp',
-   },
 ]
